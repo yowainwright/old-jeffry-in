@@ -414,7 +414,7 @@ img[src="/assets/swingset.png"] {
 	border-bottom:1px solid #B8E3F5;
 }
 .resume .centered.top.banner {
-	background-image:url('../old-jeffry-in/assets/resume.png');
+	background-image:url('/old-jeffry-in/assets/resume.png');
 }
 .resume h1 {
 	color:#fff;
@@ -460,7 +460,7 @@ img[src="/assets/swingset.png"] {
 	border-bottom:1px solid #E0DD1B;
 }
 .about .centered.top.banner {
-	background-image:url('../old-jeffry-in/assets/beanie.png');
+	background-image:url('/old-jeffry-in/assets/beanie.png');
 }
 .about .footer-mail i, .about .email-me {
 	color:#FAFAED;
@@ -508,7 +508,7 @@ img[src="/assets/swingset.png"] {
 	min-height: 750px;
 }
 .contact-jeff .centered.top.banner {
-	background-image:url('../old-jeffry-in/assets/mail.png');
+	background-image:url('/old-jeffry-in/assets/mail.png');
 }
 
 .negative.top {
